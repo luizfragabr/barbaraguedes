@@ -2,7 +2,7 @@
 baseURL = "https://example.com"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
-theme = "hugo-split-theme"
+#theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Local preview mode
