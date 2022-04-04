@@ -32,19 +32,21 @@ copyright = "&copy;2021 Psicóloga Bárbara Guedes"
 
     # Image
     [params.visual.image]
-      enable = true
+      enable = false
       file = "images/background.jpg"
       position = "center center"
 
     # Video
     [params.visual.video]
-      enable = false
+      enable = true
       mute = true
-      file = "videos/background.mp4"
+      file = "videos/video-barbara.MOV"
       # youtubeId = "dk9uNWPP7EA"
 
-  # Links
+    [params.custom.css]
+      enable = false
 
+  # Links
   [[params.links]]
       icon = "instagram"
       title = "Instagram"
