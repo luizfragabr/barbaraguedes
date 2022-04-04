@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://barbaraguedes.netlify.app"
-languageCode = "en-US"
-title = "Split - HTML Template Demo"
+languageCode = "pt-BR"
+title = "Psicóloga Bárbara Guedes"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -19,9 +19,9 @@ copyright = "&copy;2021 Psicóloga Bárbara Guedes"
 
 
   # Metadata for search engines and social sharing
-  author = "Luiz Fraga"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
+  author = "Bárbara Guedes"
+  description = "Psicologia | Barbara Guedes | Rio de Janeiro | Barra da Tijuca"
+  shareImage = "images/background.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
