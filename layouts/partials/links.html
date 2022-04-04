@@ -1,0 +1,16 @@
+<div class="split-lists">
+
+  <div class="split-list">
+  {{if .Site.Params.links }}
+  <h3>Redes Sociais</h3>
+    {{- range .Site.Params.links -}}
+        <a rel="me" href="{{ .url }}" title="{{ .title }}">
+            <span class="{{ .iconset | default "fab" }} fa-{{ .icon }}"></span>
+        </a>
+    {{- end -}}
+  {{ end }}
+  </div>
+
+
+</div>
+
