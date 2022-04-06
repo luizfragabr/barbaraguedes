@@ -32,13 +32,13 @@ copyright = "&copy;2021 Psicóloga Bárbara Guedes"
 
     # Image
     [params.visual.image]
-      enable = false
+      enable = true
       file = "images/background.jpg"
       position = "center center"
 
     # Video
     [params.visual.video]
-      enable = true
+      enable = false
       mute = true
       file = "videos/video-barbara.MOV"
       # youtubeId = "dk9uNWPP7EA"
