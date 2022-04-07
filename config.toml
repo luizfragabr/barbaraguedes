@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://barbaraguedes.netlify.app"
+baseURL = "https://barbaraguedes.com.br"
 languageCode = "pt-BR"
-title = "Psicóloga Bárbara Guedes"
+title = "Psicóloga Bárbara Guedes | Barra da Tijuca, Recreio dos Bandeirantes e Jacarepaguá RJ"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -10,19 +10,19 @@ relativeURLs = true
 uglyURLs = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "G-YRC7HCSMRF"
 
 # Copyright
-copyright = "&copy;2021 Psicóloga Bárbara Guedes"
+copyright = "&copy;2022 Psicóloga Bárbara Guedes"
 
 [params]
 
 
   # Metadata for search engines and social sharing
-  author = "Bárbara Guedes"
-  description = "Psicologia | Barbara Guedes | Rio de Janeiro | Barra da Tijuca"
+  author = "Psicologia Clínica | Bárbara Guedes | Barra da Tijuca | Rio de Janeiro"
+  description = "Psicóloga na Barra da Tijuca, Abelardo Bueno, Rio2, Villas da Barra, Cidade Jardim, Ilha Pura e Jacarepaguá, especialista em terapia cognitivo-comportamental, psicologia, estresse, ansiedade, depressão, pânico, fobias e vícios"
   shareImage = "images/background.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "barbaraguedes"
 
   # Favicon
   favicon = "favicon.ico"
